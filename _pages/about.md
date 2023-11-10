@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research fellow in Department of Food Science and Technology, National University of Singapore. My current research task is isolation and characterization of natural products from *Antrodia camphorata*, and verification of their bioactivities, including anti-inflammatory, anti-aging, and anti-viral activities.
+I am currently a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT. My current research task is AI powered micro-nutrients delivery system for human health.
 
 I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree, advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fang**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/) were my thesis advisory committee members and gave me a lot of valuable guidances on my research.
 
@@ -29,6 +29,7 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 
 
 # 🔥 News
+- *2022.09*: I start my new work as a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT.
 - *2022.09*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Nature Communication*. Special thanks to Dr. Huang’s supervise, and Dr. Houk and Dr. Liu’s cooperation in mechanism calculation, and Dr. Wu Jie for his valuable comments on synthesis.
 - *2022.06*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Journal of Agricultural and Food Chemistry*.
 - *2022.05*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Foods*.
