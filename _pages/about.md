@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT. My current research task is AI powered micro-nutrients delivery system for human health.
+I am currently a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT. My current research task is AI-powered micro-nutrients delivery system for human health.
 
 I graduated from Northwest A&F University with a bachelor’s degree in 2015, and my supervisor for final year project is [**Dr. Wang Jianlong**](https://www.researchgate.net/profile/Jianlong-Wang-5). After that, I went to National University of Singapore for my Ph.D. degree, advised by [**Dr. Huang Dejian**](https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian/). In my research journey in Singapore, I also have deep collaboration with [**Dr. Houk**](https://www.chem.ucla.edu/houk/) from UCLA, [**Dr. Liu Fang**](https://cos.njau.edu.cn/info/1074/2548.htm) from Nanjing Agricultural University and [**Dr. Sun Chenghua**](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=chenghuasun) from Swinburne University of Technology. [**Dr. Liu Xiaogang**](https://liuxg.science.nus.edu.sg/head/), [**Dr. Wu Jie**](https://www.wujiegroupnus.com/team), [**Dr. Chi Chunyan**](https://chichunyan.webs.com/) were my thesis advisory committee members and gave me a lot of valuable guidances on my research.
 
@@ -25,11 +25,11 @@ My research interest includes **(1) Synthesis of bioactive compounds**, **(2) Na
 
 I was nominated as topic editor for muti-journal topic, [Bioactive Compounds with Application Potentials in Nutraceuticals and Nutricosmetics: Focus on Mechanism of Action and Application Science](https://www.mdpi.com/topics/S8VZUEHT3B#journals). This topic is now open for submission.
 
-I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, as a lead guitarist when I was an undergraduate student. And we even have an invited performances in our graduation ceremony.
+I like basketball and guitar. I formed a band, *Handsome Boys*, as a lead guitarist when I was an undergraduate student. And we even have an invited performances in our graduation ceremony.
 
 
 # 🔥 News
-- *2022.09*: I start my new work as a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT.
+- *2023.09*: I start my new work as a postdoctoral associate in Koch Institute for Integrative Cancer Research at MIT.
 - *2022.09*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Nature Communication*. Special thanks to Dr. Huang’s supervise, and Dr. Houk and Dr. Liu’s cooperation in mechanism calculation, and Dr. Wu Jie for his valuable comments on synthesis.
 - *2022.06*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Journal of Agricultural and Food Chemistry*.
 - *2022.05*: &nbsp;🎉🎉 Our paper (as first author) was accepted by *Foods*.
@@ -193,7 +193,8 @@ I like basketball and guitar. I formed a band, *Handsome Boys (好帅乐队)*, a
 
 
 # 💻 Journal Editorial Board Membership
-- *2022.04 - 2023.09*, [MDPI multi-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
+- *2022.04 - 2024.09*, [MDPI multi-journal joint topic Editor](https://www.mdpi.com/topics/S8VZUEHT3B#journals)
+- *2023.10 - now*, Youth Editorial Board of Journal of Future Foods
 
 # 📖 CV
 - *Download my CV [English](files/CV1.pdf) or [中文](files/CV2.pdf).
